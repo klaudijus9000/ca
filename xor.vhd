@@ -1,4 +1,5 @@
 -- File: xor.vhd
+-- Compiled by: Klaudijus Grisius
 library ieee;
 use ieee.std_logic_1164.all;
 
